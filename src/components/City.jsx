@@ -18,7 +18,7 @@ function City() {
   const { id } = useParams();
   useEffect(() => {
     fetchCity(id);
-  }, [id]);
+  }, [id, fetchCity]);
   if (!currentCity) return <Spinner />;
   const { cityName, emoji, notes, date } = currentCity;
   return isLoading ? (

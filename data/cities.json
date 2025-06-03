@@ -47,6 +47,54 @@
         "lng": "-4.108886718750001"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Braganca",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-06-03T14:51:48.023Z",
+      "notes": "df",
+      "position": {
+        "lat": "41.92042799621779",
+        "lng": "-6.897847252812769"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Leiria",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-06-03T14:52:08.613Z",
+      "notes": "hjk",
+      "position": {
+        "lat": "39.66243223396346",
+        "lng": "-8.67607893392606"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Totkomlos",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2025-06-03T14:52:45.887Z",
+      "notes": "mat jana idhar",
+      "position": {
+        "lat": "46.4401808726545",
+        "lng": "20.768913923513836"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Poljcane",
+      "country": "Slovenia",
+      "emoji": "🇸🇮",
+      "date": "2025-06-03T14:53:11.930Z",
+      "notes": "chale aj",
+      "position": {
+        "lat": "46.289741520265764",
+        "lng": "15.602679461933175"
+      },
+      "id": 98443203
     }
   ]
 }
