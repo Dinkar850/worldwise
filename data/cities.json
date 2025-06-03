@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +23,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Abos",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-03T07:08:47.255Z",
+      "notes": "great it was baby",
+      "position": {
+        "lat": "43.356195462995345",
+        "lng": "-0.5493164062500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Escobar de Polendos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-03T07:10:35.959Z",
+      "notes": "chutiya city hai",
+      "position": {
+        "lat": "41.12660607980826",
+        "lng": "-4.108886718750001"
+      },
+      "id": 98443199
     }
   ]
 }

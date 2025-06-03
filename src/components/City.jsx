@@ -14,14 +14,14 @@ const formatDate = (date) =>
   }).format(new Date(date));
 
 function City() {
-  const { currentCity, isCityLoading, fetchCity } = useCities();
+  const { currentCity, isLoading, fetchCity } = useCities();
   const { id } = useParams();
   useEffect(() => {
     fetchCity(id);
   }, [id]);
   if (!currentCity) return <Spinner />;
   const { cityName, emoji, notes, date } = currentCity;
-  return isCityLoading ? (
+  return isLoading ? (
     <Spinner />
   ) : (
     <div className={styles.city}>

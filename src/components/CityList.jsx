@@ -1,9 +1,11 @@
 /* eslint-disable react/prop-types */
+
 import CityItem from "./CityItem";
 import styles from "./CityList.module.css";
 import Spinner from "./Spinner";
 import Message from "./Message";
 import { useCities } from "../contexts/CitiesContext";
+console.log("inside cityList");
 function CityList() {
   const { isLoading, cities } = useCities();
   if (isLoading) return <Spinner />;
